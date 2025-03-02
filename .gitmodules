@@ -1,0 +1,3 @@
+[submodule "base_game"]
+	path = base_game
+	url = https://github.com/canela-san/flappy-bird-base.git
